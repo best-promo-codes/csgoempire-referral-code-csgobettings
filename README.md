@@ -10,7 +10,7 @@ Comprehensive Insight into CSGOEmpire Platform Highlights CSGOEmpire distinguish
   <tr>
     <th>✅ Product</th>
     <th>Promo Code</th>
-    <th>Exculise Bonus</th>
+    <th>Exclusive Bonus</th>
   </tr>
   <tr>
     <td>➡️ CSGOEmpire Promo Code</td>
